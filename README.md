@@ -1,4 +1,4 @@
-### This module creates a vpc in google cloud
+### This module creates a vpc with 3 public subnets in google cloud
 
 ```
 
